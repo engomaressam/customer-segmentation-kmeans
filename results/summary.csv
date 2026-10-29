@@ -1,0 +1,14 @@
+metric,value
+customers,7043.0
+churn_rate,0.2653698707936959
+raw_feature_count,18.0
+behaviour_feature_count,6.0
+pca_raw_components_80,10.0
+pca_raw_variance_80,0.8106920301401788
+pca_beh_pc1,0.46313528801590476
+pca_beh_pc2,0.30657621014589553
+k,5.0
+dbscan_eps,0.7996362309689667
+blank_total_charges,11.0
+corr_tenure_contract,0.6716065492280593
+corr_charges_fiber,0.7870655284726787
