@@ -10,6 +10,8 @@ Final project for *Unsupervised Machine Learning* (IBM Machine Learning Professi
 | Report (10 pages) | [`report/Unsupervised ML - Final Project Report.pdf`](report/Unsupervised%20ML%20-%20Final%20Project%20Report.pdf) |
 | Data | `data/Telco-Customer-Churn.csv` (IBM sample dataset, included) |
 | Outputs | `figures/` (6 charts), `results/` (every table in the report as CSV) |
+| Write-up | [Five customer segments, and the one that holds 65% of the lost revenue](https://dev.to/eng_omaressam_7cb0e2a9c/five-customer-segments-and-the-one-that-holds-65-of-the-lost-revenue-2foo) (dev.to) |
+| Also on | [Kaggle notebook](https://www.kaggle.com/code/engomaressam/telco-customer-segmentation-k-means-vs-4-methods) · [omaressam.web.app](https://omaressam.web.app/#projects) |
 
 ## Results
 
